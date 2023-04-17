@@ -1,5 +1,4 @@
 $(function (){
-
     const X_MIN = -3;
     const X_MAX = 5;
     const Y_VALUES = [-3,-2,-1,0,1,2,3,4,5];
